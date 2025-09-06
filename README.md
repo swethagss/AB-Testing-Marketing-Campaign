@@ -1,5 +1,7 @@
 # AB Testing Marketing Campaign 
 
+![Image](https://github.com/user-attachments/assets/4c992213-232b-4a0c-b14c-a066f5663a43)
+
 ## Project Background
 This project involves conducting AB testing to evalute the performance of two marketing campaigns **Facebook and AdWords** for an online retail business.
 The primary goal is to determine which platform yeilds better results in terms of clicks, conversions and and overall cost-effectiveness. By identifying the most effective platform, marketing agency can allocate our resources more efficiently and optimize their advertising strategies to deliver better outcomes for the clients.
